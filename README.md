@@ -4,3 +4,5 @@ We expect you to revert by Tomorrow EOD by deploying to github pages or netlify 
 
 ## Deployment Link:- [deepecom-assignment-sushobit](https://link-d-sushobit.vercel.app/)
 
+##Image :-
+![Screenshot 2024-01-21 141555](https://github.com/sushobit/deepecom_assignment/assets/120631631/d995130f-4011-4bd9-b8f2-5e80f0e2f577)
