@@ -1,0 +1,21 @@
+{
+  "name": "deepcom-assingment",
+  "version": "1.0.0",
+  "description": "CSV to MongoDB Invoice Processor",
+  "main": "App.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "csv-writer": "^1.6.0",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.1.0",
+    "path": "^0.12.7",
+    "xlsx": "^0.18.5"
+  }
+}
